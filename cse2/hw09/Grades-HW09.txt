@@ -1,0 +1,16 @@
+HW9 Rubric
+
+Total: 100
+
+25/25: compiles and runs, asks for input on whether insert or shorten will run.  Tries to do either insert or shorten.
+
+25/25: Generates and prints arrays, as shown by outputs in the software.
+
+25/25: Insert runs correctly
+    Selects random locations to insert the array
+    Does not generate runtime errors (typically caused by running off the end of the array)
+
+25/25: shorten runs correctly
+    Selects random locations to cut the array
+    Does not generate runtime errors (typically caused by running off the end of the array)
+                                         

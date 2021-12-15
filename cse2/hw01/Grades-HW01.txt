@@ -1,0 +1,16 @@
+Homework 1 Grading Rubric
+
+Total Score: 92
+
+75/75: The code compiles
+
+17/20: the code prints the proper symbols
+    Not perfect
+
+5/5: style
+
+No bio = -5
+
+Lateness:
+Nothing taken off for being late. Hw1 only.
+    

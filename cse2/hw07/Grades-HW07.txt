@@ -1,0 +1,15 @@
+HW 7 Rubric
+
+Total: 99
+
+35/35: Area.java compiles and runs something.
+5/5: properly accepts input shapes, rejects anything other than rectangle, triangle, or circle
+5/5: Properly queries the user for shape parameters for each of the possible shapes, such as the radius of the circle. 
+5/5: correctly calculates areas.
+
+
+35/35: stringAnalysis.java compiles and runs something.
+5/5: one overloaded method properly checks if all characters in the string are letters.
+4/5: the other overloaded method correctly checks if all characters up to a given integer are letters
+   If number was greater than length, it failed. You should just run the first method in this case.
+5/5: checks that all inputs are valid.

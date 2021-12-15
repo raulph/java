@@ -1,0 +1,17 @@
+HW 08 Rubric 
+
+Total: 100
+
+Program 1:
+35/35: compiles and runs something
+5/5: filters characters A to M
+5/5: filters characters N to Z
+5/5: generates random characters and prints out adequate output.
+
+
+Program 2:
+35/35: compiles and runs something
+5/5: Correctly generates a random lottery number with numbers in the right range
+5/5: Correctly builds an array from the user
+5/5: checks if the user guessed right, correctly reports to the user if it was right or wrong, checks if the arrays are similar or different.
+  

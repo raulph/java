@@ -1,0 +1,7 @@
+Homework 6 Rubric
+
+Total: 90
+
+75/75: Code compiles
+  5/5: Code scales with input
+  10/20: Any repeating pattern that includes correct instances of: squares, edges, correct window sizes, or correct square/edge sizes, given the input
